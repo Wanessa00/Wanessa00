@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-Hello! I’m Wanessa
+## Hello! I’m Wanessa
 
 🔬 Biomedical Scientist | 💻 Bioinformatician in Training
 📚 Currently pursuing a postgraduate degree in Molecular Biology
@@ -23,4 +20,3 @@ Human curiosity has always intrigued me—our innate drive to ask “why?” and
 	•	Analysis: Differential gene expression, Clustering, Dimensionality reduction (PCA, t-SNE)
 	•	Visualization: ggplot2, ComplexHeatmap (R)
 
--->
