@@ -1,4 +1,4 @@
-## Hello! I’m Wanessa
+Hello! I’m Wanessa
 
 🔬 Biomedical Scientist | 💻 Bioinformatician in Training
 📚 Currently pursuing a postgraduate degree in Molecular Biology
